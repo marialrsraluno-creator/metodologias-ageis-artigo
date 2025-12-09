@@ -1,1 +1,13 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.fls
+*.fdb_latexmk
+*.synctex.gz
 
+# OS files
+.DS_Store
+Thumbs.db
